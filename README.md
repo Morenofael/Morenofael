@@ -1,5 +1,5 @@
 🦾 Rafael Checchia Moreno
-👨‍🎓 Student at IFPR 🇧🇷
+👨‍🎓 Estudante IFPR 🇧🇷
 
  🔵@RafaelCMoreno1
  📷@morenofael21
