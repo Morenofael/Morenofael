@@ -1,5 +1,5 @@
 🦾 Rafael Checchia Moreno  
 👨‍🎓 Estudante no IFPR 🇧🇷  
-
-## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=bash,vim,arch)](https://skillicons.dev)
+Desenvolvedor web
+## `👨‍💻` DESENVOLVIMENTO
+[![](https://skillicons.dev/icons?i=php,mysql,js,html,css,bash,vim,vscodium,arch)](https://skillicons.dev)
